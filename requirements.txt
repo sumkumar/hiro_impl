@@ -1,0 +1,7 @@
+tensorflow==1.15
+python==2.7
+gym==0.9.3
+mujoco-py==0.5.7
+tensorflow_probability==0.7.0
+tf-agents==0.3.0
+
