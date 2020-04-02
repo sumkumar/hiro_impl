@@ -1,4 +1,4 @@
-My increaments on this https://github.com/tensorflow/models/tree/master/research/efficient-hrl
+My increments on this https://github.com/tensorflow/models/tree/master/research/efficient-hrl
 
 ---------------------------------------------------------------------------------------------------
 
